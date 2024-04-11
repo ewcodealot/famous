@@ -1,0 +1,36 @@
+{
+	"name": "#Idontwannabefamous",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "fxxulj8ftmj",
+	"viewport-width": 1920,
+	"viewport-height": 1080,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r379",
+	"ife": true,
+	"used-plugins": [
+		"TiledBg",
+		"Text",
+		"Mouse",
+		"Touch",
+		"Keyboard",
+		"gamepad",
+		"Sprite",
+		"Shape3D",
+		"PlatformInfo"
+	],
+	"used-behaviors": [
+		"scrollto",
+		"EightDir",
+		"Physics",
+		"bound",
+		"MoveTo",
+		"solid",
+		"Anchor"
+	]
+}
